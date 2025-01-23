@@ -16,5 +16,3 @@
 ## Learning
 
 - Ruby on Rails
-- Rust
-- Python
